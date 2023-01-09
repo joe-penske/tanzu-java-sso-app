@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: appsso-starter-java
+  name: tanzu-java-sso-app
   description: Spring Boot application that supports single sign-on (SSO) via Spring Security OAuth 2 Client library.
   tags:
     - sso
