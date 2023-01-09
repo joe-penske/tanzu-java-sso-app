@@ -11,7 +11,7 @@ metadata:
     - spring
     - java
   annotations:
-    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=appsso-starter-java'
+    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=tanzu-java-sso-app'
 spec:
   type: service
   lifecycle: experimental
